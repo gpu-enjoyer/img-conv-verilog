@@ -1,2 +1,10 @@
 
-build
+.venv
+
+sim_build
+src/__pycache__
+results.xml
+
+conf/mat_to_conv_input.bin
+
+note.md
